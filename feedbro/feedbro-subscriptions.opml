@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="Leituras" text="Leituras">
+      <outline text="Manual do Usuário" title="Manual do Usuário" type="rss" 
+            xmlUrl="https://manualdousuario.net/feed" htmlUrl="https://manualdousuario.net"/>
+      <outline text="Conteúdo original em português | Repórter Brasil" title="Conteúdo original em português | Repórter Brasil" type="rss" 
+            xmlUrl="http://reporterbrasil.org.br/categorias/noticias/feed/" htmlUrl="https://reporterbrasil.org.br"/>
+      <outline text="Brainstorm #9" title="Brainstorm #9" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/brainstorm9" htmlUrl="https://www.b9.com.br"/>
+  </outline>
+  <outline title="Games" text="Games">
+      <outline text="gog.com" title="gog.com" type="rss" 
+            xmlUrl="http://www.gog.com/frontpage/rss" htmlUrl="http://www.gog.com/frontpage/rss"/>
+      <outline text="Rock, Paper, Shotgun" title="Rock, Paper, Shotgun" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com/feed"/>
+      <outline text="Adventure Gamers" title="Adventure Gamers" type="rss" 
+            xmlUrl="http://adventuregamers.com/rss" htmlUrl="https://adventuregamers.com/whatsnew"/>
+  </outline>
+  <outline title="3D" text="3D">
+      <outline text="BlenderNation" title="BlenderNation" type="rss" 
+            xmlUrl="http://www.blendernation.com/feed/" htmlUrl="https://www.blendernation.com" entryContent="2"/>
+      <outline text="3dtotal · Learn | Create | Share" title="3dtotal · Learn | Create | Share" type="rss" 
+            xmlUrl="http://www.3dtotal.com/rss_feeder/" htmlUrl="https://3dtotal.com/rss.xml" entryContent="2" scanDelay="10080"/>
+      <outline text="ArtStation Magazine" title="ArtStation Magazine" type="rss" 
+            xmlUrl="http://magazine.artstation.com/feed/" htmlUrl="https://magazine.artstation.com/"/>
+  </outline>
+  <outline title="Ilustradores" text="Ilustradores">
+      <outline text="Fernando Vicente Retratos" title="Fernando Vicente Retratos" type="rss" 
+            xmlUrl="http://fernandovicenteases.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://fernandovicenteases.blogspot.com/"/>
+      <outline text="The Artwork of N.C. Winters" title="The Artwork of N.C. Winters" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/ncwinters"/>
+      <outline text="365 Cartoons" title="365 Cartoons" type="rss" 
+            xmlUrl="http://365cartoons.blogspot.com/feeds/posts/default" htmlUrl="https://365cartoons.blogspot.com/"/>
+      <outline text="Deja View" title="Deja View" type="rss" 
+            xmlUrl="http://andreasdeja.blogspot.com/feeds/posts/default" htmlUrl="https://andreasdeja.blogspot.com/"/>
+      <outline text="Character Design" title="Character Design" type="rss" 
+            xmlUrl="http://characterdesign.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://characterdesign.blogspot.com/"/>
+      <outline text="Fernando Vicente blog" title="Fernando Vicente blog" type="rss" 
+            xmlUrl="http://fernandovicenteblog.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://fernandovicenteblog.blogspot.com/"/>
+      <outline text="David Revoy" title="David Revoy" type="rss" 
+            xmlUrl="http://www.davidrevoy.com/feed.php?atom" htmlUrl="https://www.davidrevoy.com/"/>
+      <outline text="E. Pun Art Blog" title="E. Pun Art Blog" type="rss" 
+            xmlUrl="http://edwardpun.blogspot.com/feeds/posts/default" htmlUrl="https://edwardpun.blogspot.com/"/>
+      <outline text="Cedric Hohnstadt Illustration" title="Cedric Hohnstadt Illustration" type="rss" 
+            xmlUrl="http://www.cedricstudio.com/feed/" htmlUrl="https://cedricstudio.com"/>
+      <outline text="I should be drawing" title="I should be drawing" type="rss" 
+            xmlUrl="http://niqle.tumblr.com/rss" htmlUrl="https://niqle.tumblr.com/"/>
+      <outline text="Fernando Vicente Pin-Ups" title="Fernando Vicente Pin-Ups" type="rss" 
+            xmlUrl="http://fernandovicentepinups.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://fernandovicentepinups.blogspot.com/"/>
+      <outline text="ROGER CRUZ BLOG" title="ROGER CRUZ BLOG" type="rss" 
+            xmlUrl="http://rogercruzbr.blogspot.com/feeds/posts/default" htmlUrl="https://rogercruzbr.blogspot.com/"/>
+      <outline text="Deja View" title="Deja View" type="rss" 
+            xmlUrl="http://andreasdeja.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://andreasdeja.blogspot.com/"/>
+      <outline text="KRÜGER  NEWS &#38; EVENTS" title="KRÜGER  NEWS &#38; EVENTS" type="rss" 
+            xmlUrl="http://sebastian-kruger-news.blogspot.com/feeds/posts/default" htmlUrl="https://sebastian-kruger-news.blogspot.com/"/>
+      <outline text="On Animation" title="On Animation" type="rss" 
+            xmlUrl="http://onanimation.com/?feed=rss2"/>
+      <outline text="the cab" title="the cab" type="rss" 
+            xmlUrl="http://theconceptartblog.com/?feed=rss2" htmlUrl="https://www.theconceptartblog.com"/>
+      <outline text="The Etherington Brothers - Atom" title="The Etherington Brothers - Atom" type="rss" 
+            xmlUrl="https://theetheringtonbrothers.blogspot.com/feeds/posts/default" htmlUrl="https://theetheringtonbrothers.blogspot.com/"/>
+  </outline>
+  <outline title="Tirinhas" text="Tirinhas">
+      <outline text="David Revoy" title="David Revoy" type="rss" 
+            xmlUrl="http://www.peppercarrot.com/feed/en/rss" htmlUrl="https://www.davidrevoy.com/"/>
+      <outline text="Sandra and Woo" title="Sandra and Woo" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/sandraandwoo" htmlUrl="https://www.sandraandwoo.com"/>
+      <outline text="QC RSS" title="QC RSS" type="rss" 
+            xmlUrl="http://www.questionablecontent.net/QCRSS.xml" htmlUrl="http://www.questionablecontent.net"/>
+      <outline text="Sarah&#39;sScribbles" title="Sarah&#39;sScribbles" type="rss" 
+            xmlUrl="http://sarahseeandersen.tumblr.com/rss" htmlUrl="https://sarahcandersen.com/"/>
+      <outline text="buttsmithy" title="buttsmithy" type="rss" 
+            xmlUrl="http://buttsmithy.com/?feed=rss2" htmlUrl="https://buttsmithy.com"/>
+      <outline text="xkcd.com" title="xkcd.com" type="rss" 
+            xmlUrl="http://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/"/>
+      <outline text="Oglaf! -- Comics. Often dirty." title="Oglaf! -- Comics. Often dirty." type="rss" 
+            xmlUrl="http://oglaf.com/feeds/rss/" htmlUrl="https://www.oglaf.com/latest/"/>
+      <outline text="Side Quested Webcomic" title="Side Quested Webcomic" type="rss" 
+            xmlUrl="https://sidequested.com/feed/" htmlUrl="https://sidequested.com/"/>
+      <outline text="Elephant Town" title="Elephant Town" type="rss" 
+            xmlUrl="https://www.elephant.town/comic/rss" htmlUrl="https://elephant.town/"/>
+      <outline text="Kill Six Billion Demons" title="Kill Six Billion Demons" type="rss" 
+            xmlUrl="https://killsixbilliondemons.com/feed/" htmlUrl="https://killsixbilliondemons.com"/>
+      <outline text="Ava&#39;s Demon" title="Ava&#39;s Demon" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/AvasDemon" htmlUrl="https://www.avasdemon.com/" scanDelay="43200"/>
+  </outline>
+</body>
+</opml>
