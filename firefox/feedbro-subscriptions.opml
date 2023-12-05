@@ -11,6 +11,8 @@
             xmlUrl="http://reporterbrasil.org.br/categorias/noticias/feed/" htmlUrl="https://reporterbrasil.org.br"/>
       <outline text="Brainstorm #9" title="Brainstorm #9" type="rss" 
             xmlUrl="http://feeds.feedburner.com/brainstorm9" htmlUrl="https://www.b9.com.br"/>
+      <outline text="WIL WHEATON dot NET" title="WIL WHEATON dot NET" type="rss" 
+            xmlUrl="http://wilwheaton.typepad.com/wwdnbackup/atom.xml" htmlUrl="https://wilwheaton.net"/>
   </outline>
   <outline title="Games" text="Games">
       <outline text="gog.com" title="gog.com" type="rss" 
@@ -87,6 +89,8 @@
             xmlUrl="https://killsixbilliondemons.com/feed/" htmlUrl="https://killsixbilliondemons.com"/>
       <outline text="Ava&#39;s Demon" title="Ava&#39;s Demon" type="rss" 
             xmlUrl="http://feeds.feedburner.com/AvasDemon" htmlUrl="https://www.avasdemon.com/" scanDelay="43200"/>
+      <outline text="Stand Still. Stay Silent - Webcomic feed" title="Stand Still. Stay Silent - Webcomic feed" type="rss" 
+            xmlUrl="https://sssscomic.com/ssss-feed.xml" htmlUrl="http://www.sssscomic.com"/>
   </outline>
 </body>
 </opml>
