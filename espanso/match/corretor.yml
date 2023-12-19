@@ -1,0 +1,61 @@
+matches:
+  - trigger: ["vc", "voce"]
+    replace: "você"
+    propagate_case: true
+    word: true
+  - trigger: ["vcs", "voces"]
+    replace: "vocês"
+    propagate_case: true
+    word: true
+  - trigger: "agencia"
+    replace: "agência"
+    propagate_case: true
+    word: true
+  - trigger: "alguem"
+    replace: "alguém"
+    propagate_case: true
+    word: true
+  - trigger: ["esees", "eses"]
+    replace: "esses"
+    propagate_case: true
+    word: true
+  - trigger: "familia"
+    replace: "família"
+    propagate_case: true
+    word: true
+  - trigger: "japones"
+    replace: "japonês"
+    propagate_case: true
+    word: true
+  - trigger: ["nao", "ñ"]
+    replace: "não"
+    propagate_case: true
+    word: true
+  - trigger: ["p/", "pra"]
+    replace: "para"
+    propagate_case: true
+    word: true
+  - trigger: "pq"
+    replace: "porque"
+    propagate_case: true
+    word: true
+  - trigger: "sera"
+    replace: "será"
+    propagate_case: true
+    word: true
+  - trigger: ["tb", "tambem", "tamem"]
+    replace: "também"
+    propagate_case: true
+    word: true
+  - trigger: "vao"
+    replace: "vão"
+    propagate_case: true
+    word: true
+  - trigger: "tava"
+    replace: "estava"
+    propagate_case: true
+    word: true
+  - trigger: "mercurio"
+    replace: "mercúrio"
+    propagate_case: true
+    word: true
