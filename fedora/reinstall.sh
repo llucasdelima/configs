@@ -46,8 +46,7 @@ flatpak_apps=(
     "de.haeckerfelix.Fragments"             # torrent client
     "com.felipekinoshita.Kana"              # japanese hiragana/katakana
     "info.febvre.Komikku"                   # comic reader
-    "io.gitlab.news_flash.NewsFlash"        # rss client
-    "io.gitlab.idevecore.Pomodoro"          # pomodoro clock
+    "org.gnome.Solanum"                     # pomodoro clock
     "com.mattjakeman.ExtensionManager"      # gnome extensions manager
     "io.bassi.Amberol"                      # music player
     "io.github.flattool.Warehouse"          # flatpak manager
@@ -59,6 +58,7 @@ flatpak_apps=(
     "org.gnome.gitlab.YaLTeR.VideoTrimmer"  # video trimmer
     "net.lutris.Lutris"                     # game manager
     "net.davidotek.pupgui2"                 # proton manager
+    "flathub com.vscodium.codium"           # code editor
     )
 for n in ${flatpak_apps[@]};
 do
@@ -69,7 +69,6 @@ done
 # Appimages
 #############################
 appimage_apps=(
-    "https://github.com/marktext/marktext/releases/latest/download/marktext-x86_64.AppImage"   # markdown editor
     "https://todoist.com/linux_app/appimage"                                   # Todoist client
 )
 for n in ${appimage_apps[@]}
