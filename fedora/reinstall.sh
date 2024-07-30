@@ -21,6 +21,9 @@ sudo sh -c 'echo -e "[shiftkey-packages]\nname=GitHub Desktop\nbaseurl=https://r
 fedora_apps=(
     "dropbox"           # dropbox client
     "mpv"               # mpv midia player
+    "gamescope"         # steam gamescope
+    "goverlay"          # mangohud
+    "Lutris"            # game manager
     "steam"             # steam
     "github-desktop"    # github client
 )
@@ -56,7 +59,6 @@ flatpak_apps=(
     "ca.desrt.dconf-editor"                 # dconf editor
     "io.gitlab.adhami3310.Converter"        # image converter
     "org.gnome.gitlab.YaLTeR.VideoTrimmer"  # video trimmer
-    "net.lutris.Lutris"                     # game manager
     "net.davidotek.pupgui2"                 # proton manager
     "flathub com.vscodium.codium"           # code editor
     )
