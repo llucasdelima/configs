@@ -46,21 +46,22 @@ sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | 
 # Flatpak app
 #############################
 flatpak_apps=(
-    "de.haeckerfelix.Fragments"             # torrent client
-    "com.felipekinoshita.Kana"              # japanese hiragana/katakana
-    "info.febvre.Komikku"                   # comic reader
-    "org.gnome.Solanum"                     # pomodoro clock
-    "com.mattjakeman.ExtensionManager"      # gnome extensions manager
-    "io.bassi.Amberol"                      # music player
-    "io.github.flattool.Warehouse"          # flatpak manager
-    "io.github.giantpinkrobots.flatsweep"   # flatpak cleaner
-    "com.github.tchx84.Flatseal"            # flatpak permissions manager
-    "it.mijorus.gearlever"                  # appimages manager
-    "ca.desrt.dconf-editor"                 # dconf editor
-    "io.gitlab.adhami3310.Converter"        # image converter
-    "org.gnome.gitlab.YaLTeR.VideoTrimmer"  # video trimmer
-    "net.davidotek.pupgui2"                 # proton manager
-    "flathub com.vscodium.codium"           # code editor
+    "de.haeckerfelix.Fragments"                       # torrent client
+    "com.felipekinoshita.Kana"                        # japanese hiragana/katakana
+    "info.febvre.Komikku"                             # comic reader
+    "org.gnome.Solanum"                               # pomodoro clock
+    "com.mattjakeman.ExtensionManager"                # gnome extensions manager
+    "io.bassi.Amberol"                                # music player
+    "io.github.flattool.Warehouse"                    # flatpak manager
+    "io.github.giantpinkrobots.flatsweep"             # flatpak cleaner
+    "com.github.tchx84.Flatseal"                      # flatpak permissions manager
+    "it.mijorus.gearlever"                            # appimages manager
+    "ca.desrt.dconf-editor"                           # dconf editor
+    "io.gitlab.adhami3310.Converter"                  # image converter
+    "org.gnome.gitlab.YaLTeR.VideoTrimmer"            # video trimmer
+    "net.davidotek.pupgui2"                           # proton manager
+    "flathub com.vscodium.codium"                     # code editor
+    "page.codeberg.libre_menu_editor.LibreMenuEditor" # menu editor
     )
 for n in ${flatpak_apps[@]};
 do
