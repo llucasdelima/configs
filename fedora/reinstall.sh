@@ -12,8 +12,7 @@ IFS=""
 #############################
 # Repositorios exras
 #############################
-sudo rpm --import https://rpm.packages.shiftkey.dev/gpg.key # repo para o github desktop no linux
-sudo sh -c 'echo -e "[shiftkey-packages]\nname=GitHub Desktop\nbaseurl=https://rpm.packages.shiftkey.dev/rpm/\nenabled=1\ngpgcheck=1\nrepo_gpgcheck=1\ngpgkey=https://rpm.packages.shiftkey.dev/gpg.key" > /etc/yum.repos.d/shiftkey-packages.repo'
+sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm # rpmfusion free e nonfree
 
 #############################
 # Fedora packages
@@ -37,7 +36,7 @@ done
 #############################
 # ffmpeg e codecs
 #############################
-sudo dnf install ffmpeg --allowerasing -y
+sudo dnf swap ffmpeg-free ffmpeg --allowerasing
 
 #############################
 # Binary install
