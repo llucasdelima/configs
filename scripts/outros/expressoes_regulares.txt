@@ -1,0 +1,2 @@
+// Seleciona o primeiro caracter de todas as palavras com mais de 3 letras
+\<\w(?=\w{3,})

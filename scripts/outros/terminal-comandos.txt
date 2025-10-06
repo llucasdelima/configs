@@ -1,0 +1,2 @@
+// copiando arquicos no terminal
+sudo rsync -vaE --progress

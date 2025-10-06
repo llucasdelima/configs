@@ -1,0 +1,1 @@
+Remove-Item -path C:\Users\LUCASL~1\AppData\Local\Tempzxpsign* -recurse
